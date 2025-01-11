@@ -1,7 +1,4 @@
-Here's the full content rewritten to match your specified format:
 
-markdown
-Copy code
 # URL Sniffer
 
 ![Dashboard](src/pg1.png)
