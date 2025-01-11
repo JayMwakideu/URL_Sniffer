@@ -72,7 +72,7 @@ GUI .exe Version
 ## Download the GUI Version
 
 🎯 **Download the GUI Version**  
-[Click here to download the CLOUDeye Scanner GUI executable](https://drive.google.com/file/d/1gjXdIOWQAHCwxR84rxgZij29ySJ-T3OO/view?usp=sharing)
+[Click here to download the CLOUDeye Scanner GUI executable]([https://drive.google.com/file/d/1gjXdIOWQAHCwxR84rxgZij29ySJ-T3OO/view?usp=sharing](https://drive.google.com/file/d/1OEzTzoBtju4VGMcjpjdvtZfMhJ76xBy0/view?usp=sharing))
 
 ## Limitations
 Depends on external API services for malicious URL detection; functionality is limited if these services are down or keys are invalid.
