@@ -67,8 +67,12 @@ GUI .exe Version
 ## Below is a preview of the graphical interface of URL Sniffer:
 
 <p align="center"> <img src="Screenshot1.png" alt="GUI Screenshot 1" width="30%" /> <img src="Screenshot2.png" alt="GUI Screenshot 2" width="30%" /> <img src="Screenshot3.png" alt="GUI Screenshot 3" width="30%" /> <img src="Screenshot4.png" alt="GUI Screenshot 4" width="30%" /> <img src="Screenshot5.png" alt="GUI Screenshot 5" width="30%" /> </p>
-🎯 Download the GUI Version
-Click here to download the URL Sniffer GUI executable
+
+
+## Download the GUI Version
+
+🎯 **Download the GUI Version**  
+[Click here to download the CLOUDeye Scanner GUI executable](https://drive.google.com/file/d/1gjXdIOWQAHCwxR84rxgZij29ySJ-T3OO/view?usp=sharing)
 
 ## Limitations
 Depends on external API services for malicious URL detection; functionality is limited if these services are down or keys are invalid.
