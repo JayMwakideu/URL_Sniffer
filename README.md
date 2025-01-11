@@ -66,7 +66,7 @@ GUI .exe Version
 
 ## Below is a preview of the graphical interface of URL Sniffer:
 
-<p align="center"> <img src="src/pg1.png" alt="GUI Screenshot 1" width="30%" /> <img src="src/pg2.png" alt="GUI Screenshot 2" width="30%" /> <img src="src/pg3.png" alt="GUI Screenshot 3" width="30%" /> </p>
+<p align="center"> <img src="Screenshot1.png" alt="GUI Screenshot 1" width="30%" /> <img src="Screenshot2.png" alt="GUI Screenshot 2" width="30%" /> <img src="Screenshot3.png" alt="GUI Screenshot 3" width="30%" /> <img src="Screenshot4.png" alt="GUI Screenshot 4" width="30%" /> </p>
 🎯 Download the GUI Version
 Click here to download the URL Sniffer GUI executable
 
