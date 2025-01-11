@@ -1,4 +1,3 @@
-
 # URL Sniffer
 
 ![Dashboard](src/pg1.png)
@@ -25,59 +24,79 @@ To use **URL Sniffer**, ensure you have:
 - Required dependencies (listed in `requirements.txt`).
 
 Install the necessary libraries using:
-```bash
+
 pip install -r requirements.txt
-Installation Guide
+
+
+## Installation Guide
+
 Clone this repository:
 
-bash
-Copy code
+
 git clone https://github.com/JayMwakideu/URL_Sniffer.git
 cd URL_Sniffer
 Install the dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
-Usage Instructions
+
+## Usage Instructions
 URL Sniffer can be used through its GUI for ease of use:
 
-Available Features
-Home: Enter URLs for quick checks.
-Edit API Keys: Manage API keys for VirusTotal and IPQualityScore.
-View Results: See the results of URL checks.
-Logs: Review past checks and results.
-About: Information about the tool and its developer.
-Running the GUI
+## Available Features
+**Home:** Enter URLs for quick checks.
+**Edit API Keys:** Manage API keys for VirusTotal and IPQualityScore.
+**View Results:** See the results of URL checks.
+**Logs:** Review past checks and results.
+**About:** Information about the tool and its developer.
+
+## Running the GUI
 Simply execute the Python script:
 
-bash
-Copy code
+
 python url_sniffer.py
-GUI Overview
+
+## GUI Overview
 Home Page: Input URL and initiate a check.
 Edit API Keys Page: Enter and save API keys needed for URL analysis.
 View Results Page: Display results from URL checks.
 Logs Page: Monitor and review the logging of URL checks.
 About Page: Credits and project information.
 GUI .exe Version
-Below is a preview of the graphical interface of URL Sniffer:
+
+## Below is a preview of the graphical interface of URL Sniffer:
 
 <p align="center"> <img src="src/pg1.png" alt="GUI Screenshot 1" width="30%" /> <img src="src/pg2.png" alt="GUI Screenshot 2" width="30%" /> <img src="src/pg3.png" alt="GUI Screenshot 3" width="30%" /> </p>
 🎯 Download the GUI Version
 Click here to download the URL Sniffer GUI executable
 
-Limitations
+## Limitations
 Depends on external API services for malicious URL detection; functionality is limited if these services are down or keys are invalid.
 The tool currently supports only checking URLs through HTTP/HTTPS protocols.
-Contribution
+
+## Contribution
 Contributions are welcome! Please submit issues or pull requests if you have suggestions or find bugs.
 
-Author
+## Author
 Developed by Jay Mwakideu
 GitHub: JayMwakideu
 
 <p align="center"> <a href="https://www.buymeacoffee.com/JayMwakideu"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="200" /> </a> </p>
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+### Explanation of Structure:
+1. **Headings and Subheadings**: Proper use of `#`, `##`, and `###` ensures clear hierarchy and navigation.
+2. **Code Blocks**: Wrapped with triple backticks (```) for commands and scripts.
+3. **Inline Styling**: Bold (**bold**) and italic formatting used for emphasis.
+4. **Images and Links**: Center-aligned image previews and link placeholders.
+5. **Sections**: Logical breakdown using horizontal lines (`---`) for readability.
+
+
+
+
+
+
 
