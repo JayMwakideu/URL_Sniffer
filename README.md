@@ -1,6 +1,6 @@
 # URL Sniffer
 
-![Dashboard](src/pg1.png)
+![Dashboard](Screenshot.png)
 
 ## Overview
 **URL Sniffer** is a robust application designed to check whether URLs are potentially malicious by leveraging external API services. It's crafted for security enthusiasts, web developers, or anyone concerned about URL safety to validate and analyze URLs for malicious content.
